@@ -196,3 +196,5 @@ while sum_val < 20:
     sum_val += i
     print(sum_val)
     i += 1
+
+print("My first project")
