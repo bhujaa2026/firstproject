@@ -1,3 +1,8 @@
+def display():
+   return "hello world"
+
+
+
 # ⭐ **1. Left-Aligned Triangle**
 
 
